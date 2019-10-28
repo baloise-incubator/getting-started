@@ -6,7 +6,7 @@ See the [official OKD](https://www.okd.io/) docs for an introduction of the feat
 
 ## Access 
 You can access the platform at [https://console.baloise.dev/](https://console.baloise.dev/). 
-Access is management by GitHub as a SSO provider.
+Access is managed by GitHub as a SSO provider.
 Therefore you need to have a GitHub account.
 
 In order to get access to our cluster you need to get an invitation to the [baloise-incubator](https://github.com/baloise-incubator) organisation.
