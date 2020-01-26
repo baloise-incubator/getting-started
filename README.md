@@ -15,6 +15,6 @@ Ask on of the [members](https://github.com/orgs/baloise-incubator/people) to get
 ## Applications
 
 As most of our applications are managed by [Argo CD](https://argoproj.github.io/argo-cd/), 
-you can access the infrastracture-as-code definitions in our [cluster config GitHub repository](https://github.com/baloise-incubator/cluster-config).
+you can access the infrastracture-as-code definitions in our [apps root config repository](https://github.com/baloise-incubator/apps-root-config).
 
 You will also find an overview of the available deployments and some documentation there. 
