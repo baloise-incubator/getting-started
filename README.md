@@ -9,8 +9,9 @@ See the [official OKD](https://www.okd.io/) docs for an introduction of the feat
  - Access is managed by GitHub as a SSO provider.
  - Therefore you need to have a GitHub account.
 
-In order to get access to our cluster you need to get an invitation to the [baloise-incubator](https://github.com/baloise-incubator) organisation.
-Ask on of the [members](https://github.com/orgs/baloise-incubator/people) to get an invitation send to your account.
+In order to get access to our cluster you need to be a member of the [baloise-incubator](https://github.com/baloise-incubator) organization.
+
+To **become a member of the [baloise-incubator](https://github.com/baloise-incubator) organization** simply add your GitHub username to the *members* list [here](https://github.com/baloise-incubator/org/edit/master/config.yaml) and create a pull request. Please also state in the pull request that you've read and understood our [Open Source Guidelines](https://baloise.github.io/open-source/docs/arc42/) and agree to act accordingly. Your request will then be approved by one of the [organization managers](https://github.com/orgs/baloise-incubator/teams/organization-managers) and you're ready to start!
 
 ## Applications
 
